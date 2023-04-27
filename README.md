@@ -12,15 +12,15 @@
 <tbody>
   <tr>
     <td class="tg-c3ow">Model</td>
-    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/" target="_blank" rel="noopener noreferrer">Lenovo Thinkpad T460S</a></td>
+    <td class="tg-c3ow"><a href="" target="_blank" rel="noopener noreferrer">Lenovo Thinkpad T460S</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">CPU</span></td>
-    <td class="tg-c3ow"><a href="https://ark.intel.com/content/www/us/en/ark/products/199283/intel-core-i3-10100-processor-6m-cache-up-to-4-30-ghz.html" target="_blank" rel="noopener noreferrer">Intel® Core™ i7-6600U Processor</a></td>
+    <td class="tg-c3ow"><a href="https://www.intel.com/content/www/us/en/products/sku/88192/intel-core-i76600u-processor-4m-cache-up-to-3-40-ghz/specifications.html" target="_blank" rel="noopener noreferrer">Intel® Core™ i7-6600U Processor</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Ram</td>
-    <td class="tg-c3ow"><a href="https://www.gskill.com/product/165/166/1536654268/F4-3200C16D-16GTZRTrident-Z-RGBDDR4-3200MHz-CL16-18-18-38-1.35V16GB-(2x8GB)" target="_blank" rel="noopener noreferrer">Trident Z RGB DDR4-3200MHz CL16-18-18-38 1.35V 16GB (2x8GB)</a></td>
+    <td class="tg-c3ow"><a href="" target="_blank" rel="noopener noreferrer">12GB Bus 2133MHz (4GB Onboard + 8GB External)</a></td>
   </tr>
    <tr>
     <td class="tg-c3ow"><span style="font-style:normal">Wifi & Bluetooth</span></td>
@@ -29,10 +29,6 @@
   <tr>
     <td class="tg-c3ow">Graphics Card</td>
     <td class="tg-c3ow"><span style="font-style:normal">Intel UHD Graphics 520</span></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">BIOS Version</td>
-    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 1601</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">OpenCore Version</span></td>
