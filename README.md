@@ -52,8 +52,8 @@ Working
 - [x] QE/CI
 - [x] Restart, Sleep and Shutdown
 - [x] CPU Power Management
-- [x] Ethernet Intel® I219-V 1Gb Ethernet
-- [x] Audio Jack Rear and Front (Realtek ALC S1220A)![Uploading Screenshot 2023-04-27 at 09.54.51.png…]()
+- [x] Ethernet Intel® I219-LM Ethernet
+- [x] Audio Jack Rear and Front (Realtek ALC 293)
 
 - [x] HDMI,DP Audio
 - [x] iMessage, Facetime
