@@ -12,7 +12,7 @@
 <tbody>
   <tr>
     <td class="tg-c3ow">Model</td>
-    <td class="tg-c3ow"><a href="" target="_blank" rel="noopener noreferrer">Lenovo Thinkpad T460S</a></td>
+    <td class="tg-c3ow">Lenovo Thinkpad T460S</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">CPU</span></td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">Ram</td>
-    <td class="tg-c3ow"><a href="" target="_blank" rel="noopener noreferrer">12GB Bus 2133MHz (4GB Onboard + 8GB External)</a></td>
+    <td class="tg-c3ow">12GB Bus 2133MHz (4GB Onboard + 8GB External)</td>
   </tr>
    <tr>
     <td class="tg-c3ow"><span style="font-style:normal">Wifi & Bluetooth</span></td>
