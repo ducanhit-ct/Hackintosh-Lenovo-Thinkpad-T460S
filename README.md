@@ -53,7 +53,7 @@ Working
 - [x] Restart, Sleep and Shutdown
 - [x] CPU Power Management
 - [x] Ethernet Intel® I219-LM Ethernet
-- [x] Audio Jack Rear and Front (Realtek ALC 293)
+- [x] Audio Jack and combo Jack (Realtek ALC 293)
 
 - [x] HDMI,DP Audio
 - [x] iMessage, Facetime
