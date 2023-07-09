@@ -24,7 +24,7 @@
   </tr>
    <tr>
     <td class="tg-c3ow"><span style="font-style:normal">Wifi & Bluetooth</span></td>
-    <td class="tg-c3ow">BCM94360CS + Adapter NGFF</td>
+    <td class="tg-c3ow">Intel Wireless 8260</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Graphics Card</td>
@@ -32,11 +32,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">OpenCore Version</span></td>
-    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.9.1</a></td>
+    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.9.4</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">macOS Version</span></td>
-    <td class="tg-c3ow">Ventura 13.3.1</td>
+    <td class="tg-c3ow">Ventura 13.4</td>
   </tr>
 </tbody>
 </table>
@@ -57,19 +57,19 @@ Working
 
 - [x] HDMI,DP Audio
 - [x] iMessage, Facetime
-- [x] Wifi, Bluetooth, AirDrop, AirPlay, Handoff
+- [x] Wifi, Bluetooth
 - [x] All Port USB and Super Speed USB 3.0
 
 Not working at the moment
 
-- [ ] Checking...
+- [ ]  AirDrop, AirPlay, Handoff (Need replace Wifi Card)
 
 
 # Screenshot
 
 
 
-![AboutThisHack](https://user-images.githubusercontent.com/68510491/234751017-b848b406-b729-40ed-8f57-1517e6021d60.png)
+![AboutThisHack](https://github.com/ducanhit-ct/Hackintosh-Lenovo-Thinkpad-T460S/assets/68510491/47cead9a-82bf-4147-8fbb-b03eb8bc1d1f)
 
 ![Hackintool](https://user-images.githubusercontent.com/68510491/234751199-82e08968-f3a8-40b4-bcb7-0aa0d4f31bba.png)
 
