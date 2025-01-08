@@ -65,6 +65,8 @@ Not working at the moment
 - [ ]  AirDrop, AirPlay, Handoff (Need replace Wifi Card)
 
 
+https://drive.google.com/file/d/1gnimXVGSQichRSwIIl3pT6d-nKjhXful/view?usp=drive_link
+
 # Screenshot
 
 
